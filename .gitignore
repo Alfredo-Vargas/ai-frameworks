@@ -1,3 +1,7 @@
+**/.idea/**
 **/.ipynb_checkpoints/**
 **/.virtual_documents/**
 **/bird_or_not/**
+**/llama_or_alpaca/**
+**/llama_or_not/**
+*.jpg
